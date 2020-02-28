@@ -1,37 +1,5 @@
-## Welcome to GitHub Pages
+## Freezly Privacy Policy
 
-You can use the [editor on GitHub](https://github.com/smurphygr/freezly-public/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Freezly doesn't ask for or collect any personal information. The only data that will be stored online by the app is the items you enter into your lists, and the name of your groups. If you have an anonymous account, your data is linked to you by an anonymous user ID that is created when you first open the app. If you are signed into your Google account I can see your email address, but there are no mailing lists and I almost certainly will never email you. There are some anonymous analytics in the app too. The app contains no advertising, and doesn't track you or your usage for advertising purposes. You can share your data in the app with your friends by passing them your group name and key, and your data is not shared in any other way or with any other third parties.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/smurphygr/freezly-public/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+If you don't want your entries stored anymore delete them from the app, and they will be gone forever. Once you've deleted something there's no backup, so it's gone. If your group is shared with another person, it will be deleted for them also. I hate unnecessary data collection and tracking so you can be damn sure I won't do it to you.
